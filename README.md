@@ -8,7 +8,7 @@
 
 ⚡ **My notes**          
 <a href="https://www.zhihu.com/people/fys-60-44/posts">
-![Static Badge](https://img.shields.io/badge/FPGA_notes-%E9%A3%9E%E4%B9%A6-blue?logo=appveyor&logosize=auto&logoColor=HSL&style=flat-square) 
+![Static Badge](https://img.shields.io/badge/FPGA_note-%E7%9F%A5%E4%B9%8E-blue?logo=appveyor&logoSize=auto) 
 
 
 
