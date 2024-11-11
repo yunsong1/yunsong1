@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsong1&layout=compact&theme=onedark)
 
 ⚡ **My notes**          
-<a href="https://jwvt7nby4v1.feishu.cn/wiki/Lpc4wnEaQi9V3ykhmMUcVsYknVd?from=from_copylink">
+<a href="https://www.zhihu.com/people/fys-60-44/posts">
 ![Static Badge](https://img.shields.io/badge/FPGA_notes-%E9%A3%9E%E4%B9%A6-blue?logo=appveyor&logosize=auto&logoColor=HSL&style=flat-square) 
 
 
